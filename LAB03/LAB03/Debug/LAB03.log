@@ -1,0 +1,25 @@
+﻿  LAB03.cpp
+<<<<<<< HEAD
+c:\users\lin\desktop\cg\lab03\lab03\lab03.cpp(121): warning C4838: 從 'int' 到 'GLfloat' 的轉換必須是縮小轉換
+c:\users\lin\desktop\cg\lab03\lab03\lab03.cpp(121): warning C4244: '正在初始化': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\lin\desktop\cg\lab03\lab03\lab03.cpp(166): warning C4305: '-=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\lin\desktop\cg\lab03\lab03\lab03.cpp(169): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\lin\desktop\cg\lab03\lab03\lab03.cpp(201): warning C4244: 'return': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\lin\desktop\cg\lab03\lab03\lab03.cpp(204): warning C4244: 'return': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+  LAB03.vcxproj -> C:\Users\Lin\Desktop\CG\LAB03\Debug\LAB03.exe
+=======
+c:\users\lin\desktop\git\cg\lab03\lab03\lab03.cpp(96): warning C4838: 從 'double' 到 'GLfloat' 的轉換必須是縮小轉換
+c:\users\lin\desktop\git\cg\lab03\lab03\lab03.cpp(94): warning C4244: '正在初始化': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\lin\desktop\git\cg\lab03\lab03\lab03.cpp(95): warning C4244: '正在初始化': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\lin\desktop\git\cg\lab03\lab03\lab03.cpp(100): warning C4838: 從 'double' 到 'GLfloat' 的轉換必須是縮小轉換
+c:\users\lin\desktop\git\cg\lab03\lab03\lab03.cpp(97): warning C4244: '正在初始化': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\lin\desktop\git\cg\lab03\lab03\lab03.cpp(99): warning C4244: '正在初始化': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\lin\desktop\git\cg\lab03\lab03\lab03.cpp(104): warning C4838: 從 'double' 到 'GLfloat' 的轉換必須是縮小轉換
+c:\users\lin\desktop\git\cg\lab03\lab03\lab03.cpp(101): warning C4244: '正在初始化': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\lin\desktop\git\cg\lab03\lab03\lab03.cpp(102): warning C4244: '正在初始化': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\lin\desktop\git\cg\lab03\lab03\lab03.cpp(119): warning C4838: 從 'int' 到 'GLfloat' 的轉換必須是縮小轉換
+c:\users\lin\desktop\git\cg\lab03\lab03\lab03.cpp(119): warning C4244: '正在初始化': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\lin\desktop\git\cg\lab03\lab03\lab03.cpp(170): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\lin\desktop\git\cg\lab03\lab03\lab03.cpp(173): warning C4305: '-=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  LAB03.vcxproj -> C:\Users\lin\Desktop\git\CG\LAB03\Debug\LAB03.exe
+>>>>>>> aa31787a6eb46884dbb641193cbc2381f6dedc09

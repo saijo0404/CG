@@ -1,0 +1,7 @@
+﻿  LAB02.cpp
+c:\users\lin\desktop\cg\lab02\lab02\lab02.cpp(86): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\lin\desktop\cg\lab02\lab02\lab02.cpp(87): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\lin\desktop\cg\lab02\lab02\lab02.cpp(88): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\lin\desktop\cg\lab02\lab02\lab02.cpp(89): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+  LINK : 最後的累加連結找不到或未建置 C:\Users\Lin\Desktop\CG\LAB02\Debug\LAB02.exe，正在執行完整連結
+  LAB02.vcxproj -> C:\Users\Lin\Desktop\CG\LAB02\Debug\LAB02.exe

@@ -1,0 +1,16 @@
+﻿  triangle_new.cpp
+triangle_new.obj : error LNK2019: 無法解析的外部符號 __imp_glutInitWindowPosition 在函式 main 中被參考
+triangle_new.obj : error LNK2019: 無法解析的外部符號 __imp_glutInitWindowSize 在函式 main 中被參考
+triangle_new.obj : error LNK2019: 無法解析的外部符號 __imp_glutInitDisplayMode 在函式 main 中被參考
+triangle_new.obj : error LNK2019: 無法解析的外部符號 __imp_glutMainLoop 在函式 main 中被參考
+triangle_new.obj : error LNK2019: 無法解析的外部符號 __imp_glutPostRedisplay 在函式 "void __cdecl menuSelect(int)" (?menuSelect@@YAXH@Z) 中被參考
+triangle_new.obj : error LNK2019: 無法解析的外部符號 __imp_glutSwapBuffers 在函式 "void __cdecl RenderScene(void)" (?RenderScene@@YAXXZ) 中被參考
+triangle_new.obj : error LNK2019: 無法解析的外部符號 __imp_glutAddMenuEntry 在函式 "void __cdecl buildPopupMenu(void)" (?buildPopupMenu@@YAXXZ) 中被參考
+triangle_new.obj : error LNK2019: 無法解析的外部符號 __imp_glutAttachMenu 在函式 "void __cdecl buildPopupMenu(void)" (?buildPopupMenu@@YAXXZ) 中被參考
+triangle_new.obj : error LNK2019: 無法解析的外部符號 __imp_glutReshapeFunc 在函式 main 中被參考
+triangle_new.obj : error LNK2019: 無法解析的外部符號 __imp_glutDisplayFunc 在函式 main 中被參考
+triangle_new.obj : error LNK2019: 無法解析的外部符號 __imp___glutInitWithExit 在函式 glutInit_ATEXIT_HACK 中被參考
+triangle_new.obj : error LNK2019: 無法解析的外部符號 __imp___glutCreateWindowWithExit 在函式 glutCreateWindow_ATEXIT_HACK 中被參考
+triangle_new.obj : error LNK2019: 無法解析的外部符號 __imp___glutCreateMenuWithExit 在函式 glutCreateMenu_ATEXIT_HACK 中被參考
+C:\freeglut\lib\freeglut.lib : warning LNK4272: 程式庫電腦類型 'x86' 與目標電腦類型 'x64' 發生衝突
+C:\Users\Lin\Desktop\CG\LAB01\x64\Debug\LAB01.exe : fatal error LNK1120: 13 個無法解析的外部符號
