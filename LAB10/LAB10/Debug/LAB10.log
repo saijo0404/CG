@@ -1,0 +1,27 @@
+﻿  LAB10.cpp
+e:\git\l3v7a8c9\cg\lab10\lab10\lab10.cpp(184): warning C4101: 'iHeight': 未參考的區域變數
+e:\git\l3v7a8c9\cg\lab10\lab10\lab10.cpp(185): warning C4101: 'eFormat': 未參考的區域變數
+e:\git\l3v7a8c9\cg\lab10\lab10\lab10.cpp(184): warning C4101: 'iWidth': 未參考的區域變數
+e:\git\l3v7a8c9\cg\lab10\lab10\lab10.cpp(183): warning C4101: 'pBytes': 未參考的區域變數
+e:\git\l3v7a8c9\cg\lab10\lab10\lab10.cpp(184): warning C4101: 'iComponents': 未參考的區域變數
+e:\git\l3v7a8c9\cg\lab10\lab10\lab10.cpp(427): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+e:\git\l3v7a8c9\cg\lab10\lab10\lab10.cpp(449): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+e:\git\l3v7a8c9\cg\lab10\lab10\lab10.cpp(524): warning C4305: '+=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+e:\git\l3v7a8c9\cg\lab10\lab10\lab10.cpp(527): warning C4305: '-=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+e:\git\l3v7a8c9\cg\lab10\lab10\lab10.cpp(530): warning C4305: '+=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+e:\git\l3v7a8c9\cg\lab10\lab10\lab10.cpp(533): warning C4305: '-=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+e:\git\l3v7a8c9\cg\lab10\lab10\lab10.cpp(536): warning C4305: '+=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+e:\git\l3v7a8c9\cg\lab10\lab10\lab10.cpp(539): warning C4305: '-=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+e:\git\l3v7a8c9\cg\lab10\lab10\lab10.cpp(542): warning C4305: '+=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+e:\git\l3v7a8c9\cg\lab10\lab10\lab10.cpp(545): warning C4305: '-=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+e:\git\l3v7a8c9\cg\lab10\lab10\lab10.cpp(548): warning C4305: '+=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+e:\git\l3v7a8c9\cg\lab10\lab10\lab10.cpp(551): warning C4305: '-=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+e:\git\l3v7a8c9\cg\lab10\lab10\lab10.cpp(554): warning C4305: '+=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+e:\git\l3v7a8c9\cg\lab10\lab10\lab10.cpp(557): warning C4305: '-=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+e:\git\l3v7a8c9\cg\lab10\lab10\lab10.cpp(560): warning C4305: '+=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+e:\git\l3v7a8c9\cg\lab10\lab10\lab10.cpp(563): warning C4305: '-=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+e:\git\l3v7a8c9\cg\lab10\lab10\lab10.cpp(566): warning C4305: '+=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+e:\git\l3v7a8c9\cg\lab10\lab10\lab10.cpp(569): warning C4305: '-=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+e:\git\l3v7a8c9\cg\lab10\lab10\lab10.cpp(572): warning C4305: '+=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+e:\git\l3v7a8c9\cg\lab10\lab10\lab10.cpp(575): warning C4305: '-=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  LAB10.vcxproj -> E:\git\l3v7a8c9\CG\LAB10\Debug\LAB10.exe
