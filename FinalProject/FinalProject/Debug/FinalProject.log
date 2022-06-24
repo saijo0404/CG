@@ -1,0 +1,17 @@
+﻿  FinalProject.cpp
+e:\git\l3v7a8c9\cg\finalproject\finalproject\finalproject.cpp(56): warning C4305: '正在初始化': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+e:\git\l3v7a8c9\cg\finalproject\finalproject\finalproject.cpp(82): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+e:\git\l3v7a8c9\cg\finalproject\finalproject\finalproject.cpp(83): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+e:\git\l3v7a8c9\cg\finalproject\finalproject\finalproject.cpp(84): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+e:\git\l3v7a8c9\cg\finalproject\finalproject\finalproject.cpp(283): warning C4305: '+=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+e:\git\l3v7a8c9\cg\finalproject\finalproject\finalproject.cpp(284): warning C4305: '-=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+e:\git\l3v7a8c9\cg\finalproject\finalproject\finalproject.cpp(429): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+e:\git\l3v7a8c9\cg\finalproject\finalproject\finalproject.cpp(503): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+e:\git\l3v7a8c9\cg\finalproject\finalproject\finalproject.cpp(505): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+e:\git\l3v7a8c9\cg\finalproject\finalproject\finalproject.cpp(507): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+e:\git\l3v7a8c9\cg\finalproject\finalproject\finalproject.cpp(509): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+e:\git\l3v7a8c9\cg\finalproject\finalproject\finalproject.cpp(588): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+e:\git\l3v7a8c9\cg\finalproject\finalproject\finalproject.cpp(589): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+e:\git\l3v7a8c9\cg\finalproject\finalproject\finalproject.cpp(590): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+e:\git\l3v7a8c9\cg\finalproject\finalproject\finalproject.cpp(766): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  FinalProject.vcxproj -> E:\git\l3v7a8c9\CG\FinalProject\Debug\FinalProject.exe
